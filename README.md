@@ -130,6 +130,7 @@
   <li><strong>Software Automation Testing Specialization</strong> - Jala University (2023)</li>
   <li><strong>Cyber Security</strong> - Udemy (2024)</li>
   <li><strong>Microcontrollers Series 18F and 30F</strong> - FIRTEC Argentina (2017)</li>
+  <li><strong>University Expert in PHP and MySQL</strong> - Universidad Tecnológica Nacional (2018)</li>
 </ul>
 
 ---
