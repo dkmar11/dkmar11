@@ -19,7 +19,7 @@
         </p>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=nodejs,jenkins,jest,docker,selenium,gherkin" />
+            <img src="https://skillicons.dev/icons?i=nodejs,jenkins,jest,docker,selenium,gherkin,azure" />
           </a>
         </p>
       </td>
