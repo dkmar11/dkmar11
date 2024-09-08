@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi there! I'm Israel Zambrana 👋</h1>
 
 <p align="center">
@@ -11,29 +13,25 @@
   <table>
     <tr>
       <td>
-        <h3><a href="https://github.com/dkmar11/binanceBot" target="_blank">binanceBot</a></h3>
-        <p>
-          <strong>Freelance project</strong> – A Python bot for P2P trading. It automates the buying process on cryptocurrency platforms.
-        </p>
-      </td>
-      <td>
         <h3><a href="https://github.com/dkmar11/BDDcore" target="_blank">BDDcore</a></h3>
         <p>
           <strong>Core framework</strong> for web and API automated testing using JavaScript, designed to streamline Behavior-Driven Development (BDD) testing.
         </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3><a href="https://github.com/dkmar11/pedidosYA-UI" target="_blank">pedidosYA-UI</a></h3>
-        <p>
-          <strong>Freelance project</strong> – A Python bot for a platform called Pedidos YA.
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=nodejs,jenkins,jest,docker,selenium,gherkin" />
+          </a>
         </p>
       </td>
       <td>
-        <h3><a href="https://github.com/dkmar11/questionaireService" target="_blank">questionaireService</a></h3>
+        <h3><a href="https://github.com/dkmar11/screenPlayCore" target="_blank">screenPlayCore</a></h3>
         <p>
-          <strong>Personal project</strong> – An API for managing questions, built with JavaScript, MySQL, and Docker for efficient deployment.
+          <strong>creenplay pattern</strong> for automated testing of REST APIs. The project is configured to use Serenity BDD with Cucumber and Screenplay for structuring and executing tests.
+        </p>
+                <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=java,gherkin,gradle" />
+          </a>
         </p>
       </td>
     </tr>
@@ -43,11 +41,45 @@
         <p>
           <strong>Core framework</strong> for mobile automated testing, developed in JavaScript. It includes utilities for running BDD tests on mobile applications.
         </p>
+                <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=nodejs,androidstudio,gherkin" />
+          </a>
+        </p>
       </td>
       <td>
-        <h3><a target="_blank">JAVA CORE</a></h3>
+        <h3><a href="https://github.com/dkmar11/questionaireService" target="_blank">questionaireService</a></h3>
         <p>
-          <strong>Core framework (in development)</strong> for building automated tests using Java and serenity.
+          <strong>Personal project</strong> – An API for managing questions, built with JavaScript, MySQL, and Docker for efficient deployment.
+        </p>
+                <p align="center">
+          <a href="https://skillicons.dev">
+             <img src="https://skillicons.dev/icons?i=nodejs,jenkins,jest,docker,express,mysql" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3><a href="https://github.com/dkmar11/pedidosYA-UI" target="_blank">pedidosYA-UI</a></h3>
+        <p>
+          <strong>Freelance project</strong> – A Python bot for a platform called Pedidos YA.
+        </p>
+                <p align="center">
+          <a href="https://skillicons.dev">
+             <img src="https://skillicons.dev/icons?i=py,selenium" />
+          </a>
+        </p>
+      </td>
+      <td>
+        <h3><a href="https://github.com/dkmar11/binanceBot" target="_blank">binanceBot</a></h3>
+        <p>
+          <strong>Freelance project</strong> – A Python bot for P2P trading. It automates the buying process on cryptocurrency platforms.
+        </p>
+                <p align="center">
+          <a href="https://skillicons.dev">
+             <img src="https://skillicons.dev/icons?i=py,selenium" />
+          </a>
         </p>
       </td>
     </tr>
