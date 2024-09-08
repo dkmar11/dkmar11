@@ -26,7 +26,7 @@
       <td>
         <h3><a href="https://github.com/dkmar11/screenPlayCore" target="_blank">screenPlayCore</a></h3>
         <p>
-          <strong>creenplay pattern</strong> for automated testing of REST APIs. The project is configured to use Serenity BDD with Cucumber and Screenplay for structuring and executing tests.
+          <strong>Screenplay pattern</strong> for automated testing of REST APIs. The project is configured to use Serenity BDD with Cucumber and Screenplay for structuring and executing tests.
         </p>
                 <p align="center">
           <a href="https://skillicons.dev">
