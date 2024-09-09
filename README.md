@@ -83,7 +83,30 @@
         </p>
       </td>
     </tr>
-    
+    <tr>
+      <td>
+        <h3><a href="https://github.com/dkmar11/VehicleControlSystem" target="_blank">ESP32 Vehicle Control</a></h3>
+        <p>
+          <strong>Vehicle Control System</strong> – A project for controlling vehicle functions such as windows, lights, and indicators using an ESP32 and Bluetooth communication.
+        </p>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=arduino" />
+          </a>
+        </p>
+      </td>
+      <td>
+        <h3><a href="https://github.com/dkmar11/nurseCallSystem" target="_blank">Old C Project</a></h3>
+        <p>
+          <strong>Legacy Project</strong> – An older project demonstrating C programming skills, implemented around 2010, focusing on controlling various outputs through hardware.
+        </p>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=c" />
+          </a>
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 ---
