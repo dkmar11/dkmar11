@@ -19,7 +19,7 @@
         </p>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=nodejs,jenkins,jest,docker,selenium,gherkin,azure" />
+            <img src="https://skillicons.dev/icons?i=nodejs,jest,docker,selenium,gherkin,azure" />
           </a>
         </p>
       </td>
@@ -30,7 +30,7 @@
         </p>
                 <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,gherkin,gradle" />
+            <img src="https://skillicons.dev/icons?i=java,gherkin,gradle,jenkins,docker" />
           </a>
         </p>
       </td>
